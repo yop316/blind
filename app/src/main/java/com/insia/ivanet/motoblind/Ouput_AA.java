@@ -41,8 +41,6 @@ public class Ouput_AA extends ArrayAdapter<String> {
         if (ss.length>=1)
             if(ss[0].split(";").length==10)
                 imageView.setImageResource(R.drawable.database);
-
-
         return rowView;
     }
 
