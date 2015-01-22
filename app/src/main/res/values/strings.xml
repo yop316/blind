@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MotoBlind</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_app_map">app_map</string>
+    <string name="signin">Sign In</string>
+    <string name="cancel">Cancel</string>
+    <string name="psw">Password</string>
+    <string name="ip">XXX</string>
+    <string name="port">2000</string>
+    <string name="command">Command...</string>
+    <string name="period">1000</string>
+    <string name="Menu_Connection">Connect</string>
+    <string name="Menu_map">Show map</string>
+
+
+</resources>

@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/Menu_Connection"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/Menu_Connection" />
+
+    <item
+        android:id="@+id/Menu_Map"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="@string/Menu_map"
+        android:checkable="true">
+        </item>
+
+
+</menu>
